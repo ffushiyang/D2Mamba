@@ -8,7 +8,7 @@ This repository contains the official implementation and dataset samples for the
 **"D2Mamba: A Mamba-based method for floodway obstructions segmentation from multispectral satellite imagery"**.
 
 
-### 🛰️ Dataset (MFOD)
+### 🛰️ Dataset
 
 We constructed the **Multispectral Floodway Obstructions Dataset (MFOD)**, containing 8,301 high-resolution images.
 
