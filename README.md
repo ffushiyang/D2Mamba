@@ -12,7 +12,7 @@ This repository contains the official implementation and dataset samples for the
 
 We constructed the **Multispectral Floodway Obstructions Dataset (MFOD)**, containing 8,301 high-resolution images.
 
-> **Transparency Note:** We have provided supplementary sample data in the [`samples/`](./samples) directory to demonstrate annotation quality before the paper is accepted.
+> **Transparency Note:** We provide supplementary sample data via the Baidu Netdisk folder `MFOD_samples` ([link](https://pan.baidu.com/s/1uBZI8E5MuzKrzRqIv9oxsQ?pwd=tgvk), extraction code: `tgvk`).
 
 
 ### 🛠️ Environment
